@@ -1,0 +1,14 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+div{
+    border: 1px blue solid;
+    background-color: #EEEEEE;
+    border-radius: 5px;
+    text-transform: capitalize;
+    padding: 10px;
+    font-weight: bold;
+    font-family: sans-serif;
+}

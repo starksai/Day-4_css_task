@@ -1,0 +1,50 @@
+.navbar{
+    background: linear-gradient(to left top, rgb(58, 62, 43), black);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.logo{
+   padding-left: 55px;
+}
+
+.rigth-navbar{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+    
+}
+
+.right-nav-link{
+    display: flex;
+    gap: 40px;
+    padding-right: 40px;
+}
+
+.rigth-end-link{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    padding-right: 60px;
+    text-transform: capitalize;
+}
+
+li{
+    list-style: none;
+    text-transform: capitalize;
+}
+
+img{
+    height: 30px;
+}
+
+button{
+    background-color: whitesmoke;
+    border-radius: 5px;
+    height: 30px;
+    text-transform: capitalize;
+}
